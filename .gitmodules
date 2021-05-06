@@ -1,0 +1,3 @@
+[submodule "themes/vex"]
+	path = themes/vex
+	url = git@github.com:ssiyad/vex.git
