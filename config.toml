@@ -7,11 +7,11 @@ copyright = "foofoo"
 [params]
 title = "表"
 home = [
-    ["email", "mailto:ssiyad@disroot.org"],
     ["blog", "/blog/"],
     ["github", "https://github.com/ssiyad"],
     ["pgp", "/pgp"],
-    ["telegram", "https://t.me/ssiyad"]
+    ["donate", "https://www.buymeacoffee.com/ssiyad"],
+    ["contact", "/contact/"],
 ]
 
 [author]
