@@ -6,11 +6,10 @@ Telegram
 [@ssiyad](https://t.me/ssiyad)
 
 E-Mail  
-[ssiyad@disroot.org](mailto:ssiyad.disroot.org)
+[hello@ssiyad.com](mailto:hello@ssiyad.com)
 
 IRC  
 [acid @ libera.chat](https://libera.chat/)  
-<!-- `(you should be registered to pm)` -->
 
 LinkedIn  
 [@ssiyad](https://www.linkedin.com/in/ssiyad/)
