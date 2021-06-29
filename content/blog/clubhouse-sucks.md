@@ -13,7 +13,7 @@ platform. Provided, clubhouse is still in beta and registration is solely based 
 invitation from existing users. Even then I saw an unignorable number of faceless
 folk here and there. Don't get me wrong, I very much promote anonymity in public
 places, especially when it comes to online communities. But a platform which very
-much boast it's `real identity policy`, it seemed like the very opposite of
+much boast it's *real identity policy*, it seemed like the very opposite of
 what the platform stands for. A few of them were even moderators of some really big
 chat rooms where a lot of real people did not have the chance to speak.
 
@@ -30,9 +30,9 @@ as I understand, clubhouse is a modern-podcast platform aka the voice chat. The 
 of podcasts are very well known and there are multiple instant messengers with voice
 chat, like WhatsApp and Telegram. And there is numerous video-communication services
 which is nowadays used by people all around the world to conduct meetings and stuff.
-Heck, there is discord which is literally `clubhouse + numerous other features` like
+Heck, there is discord which is literally *clubhouse + numerous other features* like
 text channels, roles and much more good moderation. You should give it a try if you
-didn't already. That being said, `clubhouse is old wine in new bottle`. There is
+didn't already. That being said, *clubhouse is old wine in new bottle*. There is
 nothing new as advertised.
 
 ### Privacy (or Anonymity)
@@ -62,10 +62,10 @@ From Wikipedia:
 > synchronous: At the same time, at the same frequency
 
 Almost every online communication tool is asynchronous, and there is a reason for it.
-Our `real life` is very much different from our `online life`, even if seems to be the
-one and same. Let's assume they are two threads in our program. `online life` is fast
-and you may loose many updates if you try to block it for even a little interval. `real
-life` on the other hand is slow and you're committed to it 100%.
+Our *real life* is very much different from our *online life*, even if seems to be the
+one and same. Let's assume they are two threads in our program. *online life* is fast
+and you may loose many updates if you try to block it for even a little interval. *real
+life* on the other hand is slow and you're committed to it 100%.
 
 From [Inception](https://www.imdb.com/title/tt1375666/):
 > Cobb: Well, dreams, they feel real while we're in them right? Its only when we wake
@@ -73,13 +73,13 @@ From [Inception](https://www.imdb.com/title/tt1375666/):
 
 Like dreams, you engage too much in social media, you lose track of real life and start
 to live in a very artificial -handpicked for you- mental state. This is why a lot of
-social media platforms start as `asynchronous` and starts to sync you in with constant
-notifications. An `asynchronous` platform is where you start something, do something
+social media platforms start as *asynchronous* and starts to sync you in with constant
+notifications. An *asynchronous* platform is where you start something, do something
 else, come back and finish what you previously started. This enables you to engage in
 both worlds while being a slave to neither.
 
-as an exact opposite to this, clubhouse starts `synchronous` and stay `synchronous`.
-You are expected to stay 100% committed to any event unlike `asynchronous` platforms
+as an exact opposite to this, clubhouse starts *synchronous* and stay *synchronous*.
+You are expected to stay 100% committed to any event unlike *asynchronous* platforms
 where you could take occasional breaks.
 
 I'd also say, clubhouse success is a side effect of recent situations where a lot of
