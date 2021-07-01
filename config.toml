@@ -6,6 +6,7 @@ copyright = "foofoo"
 
 [params]
 title = "表"
+description = "ssiyad's personal website"
 home = [
     ["Blog", "/blog/"],
     ["GitHub", "https://github.com/ssiyad"],
