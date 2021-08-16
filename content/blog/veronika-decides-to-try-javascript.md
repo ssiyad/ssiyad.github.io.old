@@ -1,5 +1,5 @@
 ---
-title: "Veronika Decides to Try Javascript"
+title: "Veronika Decides to Try JavaScript"
 date: 2021-08-17T01:04:08+05:30
 ---
 That's a joke, she didn't. Instead she decides to die only to meet a new world of infinite possibilities that awaited her. She is a character from Paulo Coelho's stellar novel titled '*Veronika Decides to Die'.* If you haven't read it already, I suggest you do. It's a good book with a very much relatable setting. Meanwhile I thought it might make a good title so here we are.
