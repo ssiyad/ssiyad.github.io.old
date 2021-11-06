@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Mohave:wght@400;500;700&display=swap');
+
 :root {
     background: black;
     color: white;
@@ -14,16 +16,6 @@
     }
 }
 
-.content {
-    margin: var(--content-margin);
-}
-
-.heading {
-    font-weight: 700;
-    font-size: 5rem;
-    text-align: center;
-}
-
 a {
     color: greenyellow;
     text-decoration: none;
@@ -36,6 +28,25 @@ a:hover {
 
 ul {
     list-style-type: square;
+}
+
+address {
+    color: antiquewhite;
+}
+
+.content {
+    margin: var(--content-margin);
+}
+
+.heading {
+    font-weight: 700;
+    font-size: 5rem;
+    text-align: center;
+}
+
+.intro {
+    font-weight: 500;
+    font-size: 1.2rem;
 }
 
 .sub-heading {
@@ -56,8 +67,4 @@ ul {
 
 .list-item:not(:last-child) {
     margin-right: 0.5rem;
-}
-
-address {
-    color: antiquewhite;
 }
