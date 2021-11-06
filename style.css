@@ -30,6 +30,10 @@ ul {
     list-style-type: square;
 }
 
+li li {
+    list-style-type: none;
+}
+
 address {
     color: antiquewhite;
 }
@@ -67,4 +71,8 @@ address {
 
 .list-item:not(:last-child) {
     margin-right: 0.5rem;
+}
+
+.list-date {
+    color: dimgray;
 }
