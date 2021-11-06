@@ -1,0 +1,63 @@
+:root {
+    background: black;
+    color: white;
+    font-family: 'Mohave', sans-serif;
+    font-size: 1.5rem;
+    user-select: none;
+    -webkit-user-select: none;
+    --content-margin: 5rem 25%;
+}
+
+@media (orientation: portrait) {
+    :root {
+        --content-margin: 3rem 5%
+    }
+}
+
+.content {
+    margin: var(--content-margin);
+}
+
+.heading {
+    font-weight: 700;
+    font-size: 5rem;
+    text-align: center;
+}
+
+a {
+    color: greenyellow;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+    color: gold;
+}
+
+ul {
+    list-style-type: square;
+}
+
+.sub-heading {
+    font-weight: 600;
+    font-size: 1.2rem;
+    text-decoration: underline;
+    text-decoration-color: red;
+}
+
+.list-group {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.list-item {
+    color: antiquewhite;
+}
+
+.list-item:not(:last-child) {
+    margin-right: 0.5rem;
+}
+
+address {
+    color: antiquewhite;
+}
