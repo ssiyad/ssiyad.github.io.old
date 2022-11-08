@@ -12,6 +12,10 @@ html {
     flex-direction: column;
 }
 
+.full-screen {
+    @extend %full-screen;
+}
+
 .intro {
     @extend %full-screen;
 
