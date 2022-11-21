@@ -34,4 +34,4 @@ render_emoji = true
 smart_punctuation = true
 
 [extra]
-# Put all your custom variables here
+copyright = "Copyright 2022 Sabu Siyad"
