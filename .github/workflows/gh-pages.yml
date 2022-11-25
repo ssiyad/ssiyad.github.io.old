@@ -8,6 +8,8 @@ jobs:
     steps:
       - name: checkout
         uses: actions/checkout@v3.0.0
+        with:
+          submodules: true
       - name: build_css
         run: |
           cd themes/boring
