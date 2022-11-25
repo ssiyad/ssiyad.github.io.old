@@ -32,3 +32,8 @@ render_emoji = true
 # Whether smart punctuation is enabled (changing quotes, dashes, dots in their typographic form)
 # For example, `...` into `…`, `"quote"` into `“curly”` etc
 smart_punctuation = true
+
+[extra]
+homepage_title = "Hello, I am Sabu Siyad!"
+homepage_subtitle = "I love to code, build and break"
+homepage_img_url = "/photo.png"
