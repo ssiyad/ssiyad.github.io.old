@@ -5,6 +5,9 @@ base_url = "https://ssiyad.github.io"
 title = "Sabu Siyad"
 description = "Sabu Siyad's Personal Website"
 
+# The site theme to use.
+theme = "boring"
+
 # When set to "true", the generated HTML files are minified.
 minify_html = true
 
