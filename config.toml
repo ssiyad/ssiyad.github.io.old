@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://ssiyad.github.io"
+base_url = "https://ssiyad.com"
 
 # The site title and description; used in feeds by default.
 title = "Sabu Siyad"
