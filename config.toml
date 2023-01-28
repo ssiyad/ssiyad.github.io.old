@@ -40,3 +40,15 @@ smart_punctuation = true
 homepage_title = "Hello, I am Sabu Siyad!"
 homepage_subtitle = "I love to code, build and break"
 homepage_img_url = "/photo.png"
+
+[[extra.social]]
+url = "https://github.com/ssiyad"
+icon = "lab la-github"
+
+[[extra.social]]
+url = "https://www.linkedin.com/in/ssiyad/"
+icon = "lab la-linkedin"
+
+[[extra.social]]
+url = "https://t.me/ssiyad"
+icon = "lab la-telegram"
