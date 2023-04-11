@@ -41,6 +41,9 @@ homepage_title = "Hello, I am Sabu Siyad!"
 homepage_subtitle = "I love to code, build and break"
 homepage_img_url = "/photo.png"
 
+# Refer https://support.google.com/analytics/answer/9539598?hl=en
+google_analytics_measurement_id = "G-SZ5B5E87Q4"
+
 [[extra.social]]
 url = "https://github.com/ssiyad"
 icon = "lab la-github"
