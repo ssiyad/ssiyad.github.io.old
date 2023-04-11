@@ -1,13 +1,17 @@
-# On every push this script is executed
-on: push
 name: Build and deploy GH Pages
+
+on:
+  push:
+    branches:
+      - master
+
 jobs:
   build:
     runs-on: ubuntu-latest
     if: github.ref == 'refs/heads/master'
     steps:
       - name: checkout
-        uses: actions/checkout@v3.0.0
+        uses: actions/checkout@v3
         with:
           submodules: true
       - run: git config --global --add safe.directory /github/workspace
