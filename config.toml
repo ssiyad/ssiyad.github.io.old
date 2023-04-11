@@ -55,3 +55,7 @@ icon = "lab la-linkedin"
 [[extra.social]]
 url = "https://t.me/ssiyad"
 icon = "lab la-telegram"
+
+[[extra.social]]
+url = "mailto:hello@ssiyad.com"
+icon = "las la-at"
