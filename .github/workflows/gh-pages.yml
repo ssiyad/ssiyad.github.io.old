@@ -10,6 +10,7 @@ jobs:
         uses: actions/checkout@v3.0.0
         with:
           submodules: true
+      - run: git config --global --add safe.directory /github/workspace
       - name: build_css
         run: |
           cd themes/boring
