@@ -57,5 +57,5 @@ url = "https://t.me/ssiyad"
 icon = "lab la-telegram"
 
 [[extra.social]]
-url = "mailto:hello@ssiyad.com"
-icon = "las la-at"
+url = "/music"
+icon = "lab la-spotify"
